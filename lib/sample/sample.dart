@@ -1,3 +1,5 @@
+
+
 import 'package:flutter/material.dart';
 
 class Sample extends StatelessWidget {
@@ -5,6 +7,6 @@ class Sample extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return const Scaffold();
   }
 }
