@@ -15,12 +15,65 @@
 <br>
 <br>
 
-# 멤버 구성
-* 서보규(팀장) - 유저 ( 회원가입 / 로그인 / 리뷰 게시판 /유저 정보 수정/  유저 프로필 수정/ 공지사항 및 이용약관 / Storage를 이용한 이미지 업로드 및 출력 / FireStore 설계  )
-* 이상엽 - 메인 ( 앱 로고 디자인 / 메인 페이지 / 유저 컬렉션 / FireStore 설계)
-* 강도현 - 검색( 일반적 검색 / 필터링 / 최근 검색어 / 관심 급상승 검색어 / FireStore 설계)
-* 신동환 - 식당 및 지도 ( 식당 등록 / 식당 리스트 출력 / 식당 상세 페이지 / FireStore 설계)
-* 손명욱 - 지도 및 예약 ( 전반적인 지도 API / 예약 기능 / FireStore 설계)
+# 👪팀 소개
+<table>
+  <tr>
+    <th>서보규</th>
+    <th>이상엽</th>
+    <th>강도현</th>
+    <th>신동환</th>
+    <th>손명욱</th>
+  </tr>
+  <tr>
+    <th>
+      <div>💡팀장💡</div>
+      <div>회원가입, 로그인</div>
+      <div>회원 정보 수정, 유저 프로필 수정</div>
+      <div>공지사항 및 이용약관</div>
+      <div>리뷰 게시판 CRUD</div>
+      <div>Storage를 이용한 이미지 업로드 및 출력</div>
+      <div>FireStore 설계</div>
+    </th>
+    <th>
+      <div>웹 로고 디자인</div>
+      <div>메인 페이지</div>
+      <div>유저 컬렉션</div>
+      <div>FireStore 설계</div>
+    </th>
+    <th>
+      <div>일반 검색</div>
+      <div>필터링 검색</div>
+      <div>최근 검색어</div>
+      <div>관심 급상승 검색어</div>
+      <div>FireStore 설계</div>
+    </th>
+    <th>
+      <div>식당 등록</div>
+      <div>식당 리스트 출력</div>
+      <div>식당 상세 페이지</div>
+      <div>FireStore 설계</div>
+    </th>
+    <th>
+      <div>전반적인 지도 API</div>
+      <div>예약 기능</div>
+      <div>FireStore 설계</div>
+    </th>
+  </tr>
+</table>
+
+## 내가 맡은 역할
+- 팀장
+  프로젝트 기본 셋팅
+  깃허브 관리
+  팀 프로젝트 진행 기록 및 결과 문서 작성
+- 유저와 관련된 전반적인 서비스
+  로그인
+  회원가입
+  회원정보수정
+  사용자 프로필 수정
+- 리뷰 게시판 CRUD
+- Storage를 활용하여 이미지를 업로드하는 기능 구현
+- FireStore 설계
 
 # ⚙ 개발환경
 
